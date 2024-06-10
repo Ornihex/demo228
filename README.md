@@ -300,5 +300,6 @@ nft list ruleset
 ---------------------------------------------------
 ssh admin@192.168.1.2	
 
-![2](https://github.com/Ornihex/demo228/assets/172167032/0c2e08db-3d9f-4511-9ec3-636b51c571e6)
+![Новый точечный рисунок](https://github.com/Ornihex/demo228/assets/172167032/b85d2e27-c0ea-4632-b4b0-4dc9bba64a96)
+
 
