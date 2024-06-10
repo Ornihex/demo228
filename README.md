@@ -211,6 +211,7 @@ host HQ-SRV {
 hardware ethernet <MAC адресс сервера>
 
 fixed-address 192.168.1.2;
+
 }
 
 systemctl enable --now isc-dhcp-server.service
