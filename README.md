@@ -288,7 +288,7 @@ systemctl restart sshd
 ------------------
 nft add table inet nat
 
-nft add chain inet nat prerouting '{type nat work prerouting priority 0;}'
+nft add chain inet nat prerouting '{type nat hook prerouting priority 0;}'
 
 nft add rule inet nat prerouting
 
