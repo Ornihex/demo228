@@ -20,6 +20,8 @@
 
 Команда для назначения IP: ip addr add 192.168.1.35/24 dev ens0
 
+chmod backup_script.sh
+
 Для Branch - 255.255.255.248/29		
 Для HQ - 255.255.255.248/29
 
