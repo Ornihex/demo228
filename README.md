@@ -22,7 +22,14 @@
 
 chmod backup_script.sh
 
-Apt install bind9 (mdam или mdarm вроде так)
+Apt install bind9 (mdam или mdarm 
+вроде так)
+
+Apt install ntp
+
+Apt install samba
+
+Apt install mdarm
 
 Для Branch - 255.255.255.248/29		
 Для HQ - 255.255.255.248/29
