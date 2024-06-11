@@ -306,4 +306,7 @@ ssh admin@192.168.1.2
 
 ![Новый точечный рисунок](https://github.com/Ornihex/demo228/assets/172167032/b85d2e27-c0ea-4632-b4b0-4dc9bba64a96)
 
+![image](https://github.com/Ornihex/demo228/assets/172167032/336e5842-1d0a-4e14-bb54-34717a528a38)
+
+![image](https://github.com/Ornihex/demo228/assets/172167032/39485737-cf4c-4611-b912-e1521b80befa)
 
